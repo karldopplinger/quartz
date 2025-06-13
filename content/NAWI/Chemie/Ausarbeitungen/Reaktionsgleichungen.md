@@ -1,4 +1,12 @@
-#Chemie #matura #reaktionsgleichungen
+---
+title: Reaktionsgleichungen
+draft: false
+tags:
+  - Chemie
+  - matura
+  - reaktionsgleichungen
+---
+
 
 ###### 1. Gesetzmäßigkeiten bei Reaktionen
 - **Gesetz der Erhaltung der Masse:** Gesamtmasse bleibt gleich  

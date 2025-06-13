@@ -1,4 +1,11 @@
-#physik #arbeit #matura 
+---
+title: Energieerhaltung
+draft: false
+tags:
+  - matura
+  - physik
+  - energie
+---
 1. Welche Einheit hat die Arbeit im SI-System und wie wird sie definiert?
 	* Einheit = Joule
 	* Als Arbeit wird die Energiemenge definiert, die einem Körper durch eine auf ihn ausgeübte Kraft zugeführt wird
@@ -18,7 +25,3 @@
 	2. Arbeit der Reibungskraft... W = 50 * 40 * (-1) = -2000 Joule
 	3. Gesamt = 3194.4 - 2000 = 1194.4 Joule
 	4. Die Nettoarbeit die in Bewegungsenergie umgesetzt wird liegt bei 1194 Joule.
-
-
-
-konservative kräfte physik

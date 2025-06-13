@@ -1,4 +1,12 @@
-#Chemie #matura #sicherheit
+---
+title: Sicherheit
+draft: false
+tags:
+  - Chemie
+  - matura
+  - sicherheit
+---
+
 
 ###### 1. Gefahrensymbol – Beschreibung
 **Symbol:** ☠️ (Totenkopf)  

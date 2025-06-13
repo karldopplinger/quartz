@@ -1,4 +1,12 @@
-#Chemie #matura #trennverfahren
+---
+title: Trennverfahren
+draft: false
+tags:
+  - Chemie
+  - matura
+  - trennverfahren
+---
+
 
 ###### 1. Phase & Gemische
 **Phase:** Bereich mit gleichen physikalischen Eigenschaften  

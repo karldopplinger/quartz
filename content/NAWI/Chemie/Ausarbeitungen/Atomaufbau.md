@@ -1,4 +1,12 @@
-#Chemie #matura #atombau
+---
+title: Atomaufbau
+draft: false
+tags:
+  - Chemie
+  - matura
+  - atombau
+---
+
 
 ###### 1. Kern-Hülle-Modell & Rutherford-Experiment
 - **Kern-Hülle-Modell:** Atom besteht aus positiv geladenem **Kern** und negativ geladenen **Elektronen** in der **Hülle**
