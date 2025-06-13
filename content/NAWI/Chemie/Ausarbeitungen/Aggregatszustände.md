@@ -1,5 +1,15 @@
-#Chemie #matura #aggregatszustand
 
+
+---
+title: Aggregatszustände
+draft: false
+tags:
+  - Chemie
+  - matura
+  - aggregatszustand
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 ###### 1. Teilchensystem – Zusammenhalt & Bewegung
 **Feststoffe:** Teilchen dicht gepackt, starke Anziehung, vibrieren nur  
 **Flüssigkeiten:** Teilchen lockerer, Anziehung schwächer, bewegen sich aneinander vorbei  

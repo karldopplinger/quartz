@@ -1,5 +1,10 @@
-
 ---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
 
 **1. Was ist eine harmonische Bewegung? Beispiel?**  
 
