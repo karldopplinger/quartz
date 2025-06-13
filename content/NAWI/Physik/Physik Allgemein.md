@@ -1,2 +1,0 @@
-
-Formelsammlung -> Teams schreiben
