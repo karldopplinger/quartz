@@ -1,7 +1,7 @@
 ---
-title: Untitled
+title: notes.dopplinger-karl.com
 draft: false
 tags:
-  - example-tag
+  - notes
 ---
 💻 WMC -> 
