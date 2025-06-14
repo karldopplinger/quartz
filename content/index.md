@@ -4,4 +4,7 @@ draft: false
 tags:
   - notes
 ---
-💻 WMC -> 
+🚀 Physik
+🧪 Chemie
+💻 WMC
+🔥🧱 NSCS
