@@ -41,8 +41,14 @@ tags:
 	* Radioaktivität ist die Eigenschaft bestimmter Atomkerne, spontan Teilchen oder Strahlung auszusenden um sich in stabilere Kerne umzuwandeln. Dabei zerfallen sie und setzen Energie frei. Das nennt man radioaktiven Zerfall.
 9. Ein radioaktives Material hat eine Halbwertszeit von 10 Jahren. Anfangs sind es 80g des Materials. Wie viel Material bleibt nach 30 Jahren übrig?
 	* $m = 80 \cdot \left(\frac{1}{2}\right)^{\frac{30}{10}} = 80 \cdot \left(\frac{1}{2}\right)^3 = 80 \cdot \frac{1}{8} = 10\,g$
-
-
+10. Definieren Sie den Begriff "Isotop" und erklären Sie, wie sich Isotope desselben Elements voneinander unterscheiden. Gehen Sie dabei auf die Begriffe "Ordnungszahl (Z)" und "Atommasse (A)" ein!
+	* Isotope sind Atomkerne mit derselben Protonenanzahl, aber unterschiedlicher Neutronenanzahl, da die Protonenanzahl das Element bestimmt gehören Sie dennoch zum selben Element.
+	* Unterschiedliche Neutronenanzahlen führen zu unterschiedlichen Atommassen (A).
+	* Chemisch verhalten sich Isotope fast identisch da die Reaktionen hauptsächlich von den Elektronen abhängen.
+11. Was versteht man unter der Bindungsenergie eines Atomkerns und wie hängt sie mit der Masse des Kerns zusammen?
+	* Die Bindungsenergie ist die Energie, die nötig wäre, um den Kern in seine einzelnen Protonen und Neutronen zu zerlegen.
+	* Sie entsteht durch den Massendefekt, weil beim Zusammenfügen von Nukleonen Masse in Energie umgewandelt wird.
+12. 
 
 
 

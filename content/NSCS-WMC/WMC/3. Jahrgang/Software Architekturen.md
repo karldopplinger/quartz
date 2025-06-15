@@ -39,3 +39,18 @@ Monolithischer Aufbau (alles in eine Anwendung), ist schlecht weil dadurch die S
 - IOC (Framework): Das Framework führt alles aus, die Kontrolle geht vom Developer auf das Framework über.
 - Vorteil: Strukturierung, Standardisierung, Erweiterbarkeit
 
+**2-Tier-Architekturmodell**
+- Besteht aus Client (z.B GUI, App) und DB-Server
+- Geschäftslogik liegt meist direkt im Client
+- Problem: Kaum Wartbar, jeder client braucht datenbanktreiber, änderungen am backend -> Alle Clients brauchen update
+
+**3-Tier-Architekturmodell**
+1. Presentation Layer (z.B Frontend für Darstellung)
+2. Application Layer (Logic, z.B Java-Backend, enthält Logik etc.)
+3. Data Layer (Persistence; z.B Datenbank)
+- Vorteile: Wartbarkeit, Sicherheit, Skalierbarkeit
+> "3 Tier trennt Denken (Logik), Reden (Frontend), und Erinnern (Datenbank)"
+
+
+
+

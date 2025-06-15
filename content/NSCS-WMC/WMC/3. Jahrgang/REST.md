@@ -1,6 +1,15 @@
 #wmc #matura #Rest
 
 
+**REST**
+- Architekturstil für Web-APIs
+- Ziel: Einheitliche Schnittstelle über die Clients mit Servern über HTTP kommunizieren
+- Fast immer mit HTTP + JSON umgesetzt
+- Wichtig:
+	- Zustandslosigkeit (Stateless): Server merkt sich nichts über den Client zwischen zwei Anfragen; Jeder Request muss alle Infos enthalten (z.B Session Token); Einfach Skalierbar
+	- Client-Server-Trennung: Der Client und der Server sind unabhängig
+
+
 **HTTP Methoden**
 	Wichtig
 - GET: Lädt eine Ressource

@@ -42,3 +42,9 @@ Genaue Abgrenzung zwischen Library und Middleware -> unbekannt
 - Erlauben es in OOP Sprachen Objekte direkt mit Tables in der DB zu verknüpfen
 - EF Core in C# (User angelegt, db migrations, danach is user.pw, user.name etc available)
 
+
+**JWT Json Web Token**
+- Ein sicherer kompakter Token in JSON Format
+- Verwendet für Auth zwischen Client und Server
+- Besteht aus Header, Payload und Signatur -> Verhindert Manipulationen
+
